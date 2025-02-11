@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Saikrishna"
+    },
+    {
+      "id" : "2",
+      "name" : "naresh"
+    },
+    {
+      "id": "3",
+      "name": "yuvaraj"
+    },
+    {
+      "id": "4",
+      "name": "indu"
+    },
+    {
+      "id": "5",
+      "name": "gopal"
+    },
+    {
+      "id": "6",
+      "name": "pranay"
+    },
+    {
+      "id": "7",
+      "name": "Sai Nath"
+    }
+  ]
+}
